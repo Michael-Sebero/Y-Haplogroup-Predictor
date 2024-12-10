@@ -1,7 +1,7 @@
 ## How to Install
 
 ```
-git clone https://github.com/MichaelSebero/Y-Haplogroup-Predictor
+git clone https://github.com/Michael-Sebero/Y-Haplogroup-Predictor
 
 python3 /path/to/y-haplogroup-predictor.py
 ```
