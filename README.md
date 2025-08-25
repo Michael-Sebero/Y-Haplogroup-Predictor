@@ -24,7 +24,7 @@ The intention of this software is to provide a FOSS alternative to detecting hap
 
 - Input the raw DNA file pathway into the console.
 
-### This script only detects SNPs associated with haplogroups R1a, R1b, I1 and I2, along with their subclades for now.
+### This script only detects SNPs associated with haplogroups R1a, R1b, N, G, I1 and I2 along with their subclades for now.
 
 <p align="center">
   <img src="https://i.postimg.cc/yd0jYTVL/Europe.png"/>
